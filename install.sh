@@ -38,9 +38,6 @@ log_info "Installing Java ..."
   source /etc/environment
   echo $JAVA_HOME
   
-#After that manually configure PATH variables
-# export PATH=$PATH:~/Android/Sdk/emulator
-  
 log_info "Installing Ubuntu Make ..."
   sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
   sudo apt-get -y update
@@ -48,3 +45,6 @@ log_info "Installing Ubuntu Make ..."
   
 log_info "Installing Android Studio ..."
  umake android --accept-license
+ 
+#After that manually configure PATH variables
+# export PATH=$PATH:~/Android/Sdk/emulator
