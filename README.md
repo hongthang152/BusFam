@@ -19,5 +19,7 @@ This is a NodeJS Development Repository
 - Check to see if the bin directory has been added
   
     ```echo $PATH```
+6) Install Heroku CLI
+```sudo snap install --classic heroku```
 
-6) Code
+7) Code
