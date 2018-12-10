@@ -20,6 +20,11 @@ This is a NodeJS Development Repository
   
     ```echo $PATH```
 6) Install Heroku CLI
+
+```sudo apt update```
+
+```sudo apt install snapd```
+
 ```sudo snap install --classic heroku```
 
 7) Code
