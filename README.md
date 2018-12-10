@@ -12,8 +12,8 @@ This is a NodeJS Development Repository
 5) Install emulator.
 - Type "emulator" in the Shell. If command is not found, try to modify the PATH variable.
 
-export PATH=#PATH:~/your directory to android studio emulator bin
-export PATH=#PATH:~/your directory to Java SDK bin
+export PATH=#PATH:/your directory to android studio emulator bin
+export PATH=#PATH:/your directory to Java SDK bin
 
 - Check to see if the bin directory has been added
 
