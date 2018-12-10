@@ -1,0 +1,24 @@
+{
+  "name": "busfam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongthang152/BusFam.git"
+  },
+  "author": "Thang Hong Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongthang152/BusFam/issues"
+  },
+  "homepage": "https://github.com/hongthang152/BusFam#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "handler": "^0.1.3"
+  }
+}
