@@ -31,5 +31,7 @@ This is a NodeJS Development Repository
 ```sudo apt install snapd```
 
 ```sudo snap install --classic heroku```
+9) Pull backend server code and put it in one separate folder. Pull react native code and put it in one separate folder. Open each folder and type,
+```npm install```
 
 8) Code
