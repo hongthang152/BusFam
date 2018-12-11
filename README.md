@@ -1,3 +1,6 @@
+Note: Linux is not required for development environment, but is STRONGLY RECOMMENDED due to the fact that Android emulator is very slow on Windows. 
+Linux might be hard to get used to, but it is rewarding in the end. Using command line with Linux is very flexible when it comes to 
+
 # BusFam - Installation Guide
 This is a NodeJS Development Repository
 
