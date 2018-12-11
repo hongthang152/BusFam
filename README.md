@@ -6,13 +6,15 @@ This is a NodeJS Development Repository
 
 1) Install latest Linux Mint. Guide: https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/
 
-2) Install Chrome on Linux. Guide: https://support.google.com/chrome/a/answer/9025903?hl=en
+2) Install TeamViewer on Linux Mint. Guide: https://www.itzgeek.com/how-tos/linux/linux-mint-how-tos/how-to-install-teamviewer-on-linux-mint-19-linux-mint-18.html
 
-3) Install Visual Studio Code on Linux. Open deb package. https://code.visualstudio.com/download
+3) Install Chrome on Linux. Guide: https://support.google.com/chrome/a/answer/9025903?hl=en
 
-4) Install Java SDK and Android Studio (for React Native development). Guide Top Answer: https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+4) Install Visual Studio Code on Linux. Open deb package. https://code.visualstudio.com/download
 
-5) Install emulator.
+5) Install Java SDK and Android Studio (for React Native development). Guide Top Answer: https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+
+6) Install emulator.
 - Type "emulator" in the Shell. If command is not found, try to modify the PATH variable.
 
     ```export PATH=$PATH:/your directory to android studio emulator bin```
@@ -22,7 +24,7 @@ This is a NodeJS Development Repository
 - Check to see if the bin directory has been added
   
     ```echo $PATH```
-6) Install Heroku CLI
+7) Install Heroku CLI
 
 ```sudo apt update```
 
@@ -30,4 +32,4 @@ This is a NodeJS Development Repository
 
 ```sudo snap install --classic heroku```
 
-7) Code
+8) Code
