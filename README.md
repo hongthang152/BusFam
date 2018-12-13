@@ -44,7 +44,7 @@ This does not mean that you can put your code anywhere you want. If you can tidy
 
 2) 1 function => 1 purpose
 The name of your function has to reflect ONE thing about what that function does. NOT 2 things. 
-In case there are logics that have to be nested. MAKE SURE TO INCLUDE THAT IN YOUR COMMENT.
+In case there are logics that have to be nested. Name your function smart enough so that people know what that function does.
 
 3) Always comment your code for every function and constants you write. Every function has to accompany with at least 1 example in the comment. Always explain what each parameter does and what is the output of that function
 
