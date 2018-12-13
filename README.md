@@ -35,3 +35,25 @@ This is a NodeJS Development Repository
 ```npm install```
 
 8) Code
+
+# BusFam - Coding Guide
+
+1) Remember this order: Code Performance > Code Conciseness > Code Readability 
+
+This does not mean that you can put your code anywhere you want. If you can tidy up your code without affecting performance, go clean up your mess.
+
+2) 1 function => 1 purpose
+The name of your function has to reflect ONE thing about what that function does. NOT 2 things. 
+In case there are logics that have to be nested. MAKE SURE TO INCLUDE THAT IN YOUR COMMENT.
+
+3) Always comment your code for every function and constants you write. Every function has to accompany with at least 1 example in the comment. Always explain what each parameter does and what is the output of that function
+
+4) Obey the project architecture. 
+- The logic always goes into the service
+- Controller logic always call the service to process remaining logic.
+- (to be continued)
+
+5) Always put your test result in your issue ticket.
+
+6) Be ALWAYS able to explain what you are doing. 
+Your technical skill is equally important as your technical skill
