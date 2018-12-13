@@ -56,6 +56,7 @@ In case there are logics that have to be nested. MAKE SURE TO INCLUDE THAT IN YO
 5) Always put your test result in your issue ticket.
 
 6) Be ALWAYS able to explain what you are doing. 
-Your technical skill is equally important as your technical skill
+Your technical skill is equally important as your communication skill.
 
 7) Unit Testing can be ignored during the prototype phase. However, when the product goes live, Unit Testing is a must for every ticket.
+
